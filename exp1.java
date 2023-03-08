@@ -4,4 +4,8 @@ class pw
    {
       ///cod
    }
+    public coid m1()
+   {
+      ///cod
+   }
 }
