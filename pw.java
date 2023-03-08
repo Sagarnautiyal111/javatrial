@@ -2,6 +2,10 @@ class pw
 {
    public coid m1()
    {
-      ///cod
+      ///code
+   }
+ public coid m2()
+   {
+      ///code2
    }
 }
